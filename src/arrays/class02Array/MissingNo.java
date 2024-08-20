@@ -1,6 +1,4 @@
-package arrays.class02;
-
-import java.util.Arrays;
+package arrays.class02Array;
 
 public class MissingNo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package arrays.class01;
+package arrays.class01Basic;
 
 public class FindMinAndMax {
     public static void main(String[] args) {
