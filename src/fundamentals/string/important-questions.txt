@@ -1,0 +1,112 @@
+
+
+1. Reverse a String
+#####################################
+
+Problem: Reverse the characters of a string.
+Example: Input: "hello", Output: "olleh".
+
+2. Check if a String is a Palindrome
+############################################
+
+Problem: Determine whether a string reads the same backward as forward.
+Example: Input: "madam", Output: true.
+
+3. Find the First Non-Repeated Character in a String
+########################################################
+
+Problem: Find the first character in a string that does not repeat.
+Example: Input: "swiss", Output: "w".
+
+4. Count the Number of Vowels and Consonants in a String
+########################################################
+
+Problem: Write a function that counts the number of vowels and consonants in a given string.
+Example: Input: "hello", Output: Vowels = 2, Consonants = 3.
+
+*****
+5. Find the Longest Substring Without Repeating Characters
+############################################################
+
+Problem: Given a string, find the length of the longest substring without repeating characters.
+Example: Input: "abcabcbb", Output: 3 (The longest substring is "abc").
+6. Check if Two Strings are Anagrams
+
+*****
+Problem: Check if two strings are anagrams of each other.
+###############################################################
+
+Example: Input: "listen" and "silent", Output: true.
+
+*****
+7. String Compression
+Problem: Implement a method to perform basic string compression using the counts of repeated characters.
+##################################################################
+
+Example: Input: "aabcccccaaa", Output: "a2b1c5a3".
+
+*****
+8. Find All Permutations of a String
+
+##################################################
+
+Problem: Write a function that generates all possible permutations of a given string.
+Example: Input: "abc", Output: "abc", "acb", "bac", "bca", "cab", "cba".
+
+*****
+9. Remove Duplicate Characters in a String
+
+##################################################
+Problem: Write a function to remove duplicate characters from a string.
+Example: Input: "programming", Output: "progamin".
+
+
+10. Check if a String Contains Only Digits
+##################################################
+
+Problem: Determine if a string consists only of numeric digits.
+Example: Input: "12345", Output: true.
+
+
+11. Find the First Non-Repeated Character in a String
+######################################################
+
+Problem: Find the first character in a string that does not repeat.
+Example: Input: "swiss", Output: "w".
+
+
+12. Longest Palindromic Substring
+########################################
+
+Problem: Find the longest substring in a given string that is a palindrome.
+Example: Input: "babad", Output: "bab" or "aba"
+Concepts: Dynamic programming, two-pointer technique.
+
+13. Count the Number of Occurrences of a Substring
+########################################################
+
+Problem: Count how many times a given substring appears in a string.
+Example: Input: "hellohello", substring: "lo", Output: 2
+Concepts: String search algorithms.
+
+14. Longest Common Prefix
+########################################
+
+Problem: Find the longest common prefix string amongst an array of strings.
+Example: Input: ["flower", "flow", "flight"], Output: "fl"
+Concepts: String comparison, binary search.
+
+
+9. Group Anagrams
+###############################
+
+Problem: Given an array of strings, group the anagrams together.
+Example: Input: ["eat", "tea", "tan", "ate", "nat", "bat"], Output: [["eat", "tea", "ate"], ["tan", "nat"], ["bat"]]
+Concepts: HashMap, sorting.
+
+
+10. Valid Parentheses
+######################################
+Problem: Given a string containing just the characters '(', ')', '{', '}', '[', and ']', determine if the input string is valid.
+Example: Input: "()[]{}", Output: true
+Concepts: Stack, matching pairs.

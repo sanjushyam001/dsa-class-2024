@@ -1,0 +1,20 @@
+BODMAS
+------------
+
+precedence
+{*,/,%}>{+,-}
+associativity
+left to right
+---------------------
+precedence
+{>,<,>=,<=} > {==,!=}
+associativity
+left to right
+
+precedence
+{>,<,>=,<=} > {&,|,^}
+associativity
+left to right
+
+
+
